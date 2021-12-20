@@ -24,7 +24,7 @@ public class PaginaInicial {
 			System.out.println(str);
 
 		System.out.print("\nDigite o seu nome: ");
-		String nome = leia.next();
+		String nome = leia.nextLine();
 		System.out.print("Digite a idade: ");
 		int idade = leia.nextInt();
 		FilmesEmCartaz fc = new FilmesEmCartaz(nome, idade);
