@@ -9,7 +9,7 @@ Projeto do BLOCO I do Bootcamp da Generation Brasil idealizado na Linguagem JAVA
 
 - Classes, Atributos e Objetos; 
 - Encapsulamento e Herança; 
-- Polimorfismo, Sobrecarga e Sobreescrita; 
+- Polimorfismo, Sobrecarga e Sobrescrita; 
 - Collections;
 
 <h2>Realizado pelo grupo:</h2>
