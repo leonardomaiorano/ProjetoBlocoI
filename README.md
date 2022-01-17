@@ -20,5 +20,5 @@ Projeto do BLOCO I do Bootcamp da Generation Brasil idealizado na Linguagem JAVA
 - <a href="https://github.com/Biah98">Beatriz Carvalho</a>
 - <a href="https://github.com/Gabriel-M-S">Gabriel Marques</a>
 - <a href="">Guilherme Tadeu</a>
-- <a href="">Marcos Vieira</a>
+- <a href="https://github.com/viniciusmarkdev">Marcos Vieira</a>
 - <a href="https://github.com/mikesandes">Mike Sandes</a>
